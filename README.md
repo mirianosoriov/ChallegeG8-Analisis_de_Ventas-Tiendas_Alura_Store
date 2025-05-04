@@ -22,4 +22,4 @@ Ayudar al Sr. Juan a decidir qué tienda vender entre las 4 tiendas de Alura Sto
 ## ✅ Recomendación final
 **Vender la Tienda 4**, por presentar menor facturación y desempeño promedio.
 
-📂 [Ver Notebook en Google Colab](URL-DEL-COLAB)  
+📂 [Ver Notebook en Google Colab]([https://colab.research.google.com/drive/1eoetjxegg0rlxzkwTfJCuQRR1fQmn5BK?usp=sharing])  
