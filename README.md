@@ -1,4 +1,4 @@
-# Challenges-G8-Alura
+# Challenge 1 - Data Science - Modelado de Datos
 # 📊 Análisis de Ventas - Tiendas Alura Store
 
 Este proyecto fue elaborado como parte de la Especialización en Data Science del programa **Oracle Next Education G8**, por **Mirian Osorio**.
