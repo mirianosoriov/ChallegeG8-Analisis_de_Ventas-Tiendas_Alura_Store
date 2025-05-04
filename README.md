@@ -1,7 +1,7 @@
 # Challenge 1 - Data Science - Modelado de Datos
 # 🚀 Proyecto de Análisis de Datos: ¿Qué tienda debería vender el Sr. Juan?
 
-🔍 Este proyecto fue desarrollado como parte de la **Especialización en Data Science** del programa **Oracle Next Education G8**, por **Mirian Osorio**.
+🔍 Este proyecto fue desarrollado como parte de la **Especialización en Data Science** del programa **Oracle Next Education G8**.
 
 ---
 
@@ -15,7 +15,7 @@ El Sr. Juan, dueño de la cadena **Alura Store**, desea iniciar un nuevo emprend
 - 📦 Costo promedio de envío  
 - 🧩 Productos con mejor y peor desempeño  
 
-Como Data Scientist, tu misión es guiarlo usando **análisis exploratorio de datos** y **visualizaciones efectivas**.
+Como Data Scientist, mi misión es guiarlo usando **análisis exploratorio de datos** y **visualizaciones efectivas**.
 
 ---
 
