@@ -16,6 +16,7 @@ El Sr. Juan, dueño de la cadena **Alura Store**, desea iniciar un nuevo emprend
 - 🧩 Productos con mejor y peor desempeño  
 
 Como Data Scientist, mi misión es guiarlo usando **análisis exploratorio de datos** y **visualizaciones efectivas**.
+
 <img src="Challenge1.png" alt="Imagen" width="500"/>
 ---
 
