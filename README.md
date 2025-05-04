@@ -1,25 +1,56 @@
 # Challenge 1 - Data Science - Modelado de Datos
-# 📊 Análisis de Ventas - Tiendas Alura Store
+# 🚀 Proyecto de Análisis de Datos: ¿Qué tienda debería vender el Sr. Juan?
 
-Este proyecto fue elaborado como parte de la Especialización en Data Science del programa **Oracle Next Education G8**, por **Mirian Osorio**.
+🔍 Este proyecto fue desarrollado como parte de la **Especialización en Data Science** del programa **Oracle Next Education G8**, por **Mirian Osorio**.
 
-## 🧠 Objetivo
-Ayudar al Sr. Juan a decidir qué tienda vender entre las 4 tiendas de Alura Store, analizando ventas, calificaciones y logística.
+---
 
-## 🔎 Herramientas Utilizadas
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
+## 🎯 Objetivo del Proyecto
 
-## 📌 Contenido del Cuaderno
-1. Análisis de facturación
-2. Ventas por categoría
-3. Calificaciones promedio
-4. Productos más y menos vendidos
-5. Costos de envío
+El Sr. Juan, dueño de la cadena **Alura Store**, desea iniciar un nuevo emprendimiento. Para ello, necesita decidir **cuál de sus 4 tiendas actuales vender**, basándose en criterios como:
 
-## ✅ Recomendación final
-**Vender la Tienda 4**, por presentar menor facturación y desempeño promedio.
+- 💰 Facturación total  
+- 🛒 Categorías de productos más vendidas  
+- 🌟 Calificación promedio de los clientes  
+- 📦 Costo promedio de envío  
+- 🧩 Productos con mejor y peor desempeño  
 
-📂 [Ver Notebook en Google Colab]([https://colab.research.google.com/drive/1eoetjxegg0rlxzkwTfJCuQRR1fQmn5BK?usp=sharing])  
+Como Data Scientist, tu misión es guiarlo usando **análisis exploratorio de datos** y **visualizaciones efectivas**.
+
+---
+
+## 🛠️ Herramientas Utilizadas
+
+- **Python**
+- **Pandas** para el manejo de datos  
+- **Matplotlib** para visualización de información  
+- **Google Colab** como entorno de desarrollo  
+
+---
+
+## 📊 Análisis Realizado
+
+🔹 **1. Facturación total por tienda**  
+🔹 **2. Ventas por categoría**  
+🔹 **3. Calificación promedio de clientes**  
+🔹 **4. Productos más y menos vendidos**  
+🔹 **5. Costo promedio de envío**
+
+Se presentan gráficos comparativos, tablas ordenadas y una **recomendación final** basada en insights clave.
+
+---
+
+## 📌 Recomendación Final
+
+> ✅ **Vender la Tienda 4**, ya que mostró el desempeño más bajo en facturación, calificación de clientes y otros indicadores clave.  
+
+Este análisis permite tomar una decisión informada y estratégica para potenciar el nuevo proyecto del Sr. Juan.
+
+---
+
+## 🔗 Acceso al Proyecto
+
+📘 Visualiza el notebook completo en Google Colab:  
+👉 [Abrir en Google Colab](https://colab.research.google.com/drive/1eoetjxegg0rlxzkwTfJCuQRR1fQmn5BK?usp=sharing)
+
+---
