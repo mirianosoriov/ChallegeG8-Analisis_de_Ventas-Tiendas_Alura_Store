@@ -17,7 +17,10 @@ El Sr. Juan, dueño de la cadena **Alura Store**, desea iniciar un nuevo emprend
 
 Como Data Scientist, mi misión es guiarlo usando **análisis exploratorio de datos** y **visualizaciones efectivas**.
 
-<img src="Challenge1.png" alt="Imagen" width="500"/>
+<p align="center">
+  <img src="Challenge1.png" alt="Imagen del desafío" width="500"/>
+</p>
+
 ---
 
 ## 🛠️ Herramientas Utilizadas
